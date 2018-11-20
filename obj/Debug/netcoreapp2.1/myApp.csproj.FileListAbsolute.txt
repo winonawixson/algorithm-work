@@ -1,0 +1,11 @@
+/Users/winonawixson/Documents/Documents/Dev/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/winonawixson/Documents/Documents/Dev/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/winonawixson/Documents/Documents/Dev/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/winonawixson/Documents/Documents/Dev/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/winonawixson/Documents/Documents/Dev/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/winonawixson/Documents/Documents/Dev/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/winonawixson/Documents/Documents/Dev/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/winonawixson/Documents/Documents/Dev/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/winonawixson/Documents/Documents/Dev/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/winonawixson/Documents/Documents/Dev/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/winonawixson/Documents/Documents/Dev/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
